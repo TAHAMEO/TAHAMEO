@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_IUB-Cyber_Security_Student-0D7337?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎓_IUB-BS_Cyber_Security-0D7337?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/🛡️_Pentester-Offensive_Security-D72638?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌐_Web_App-Security_Testing-0066FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔎_OSINT-Recon_%26_Intel-7B2CBF?style=for-the-badge" />
@@ -26,12 +26,12 @@
 
 <img align="right" width="140" src="https://github.com/TAHAMEO.png" style="border-radius:50%;" />
 
-🛡️ **Taha Meo** — **Cybersecurity professional** and **penetration tester** studying at the **Islamia University of Bahawalpur (IUB)**.
+🛡️ **Taha Meo** — **Cybersecurity professional** and **penetration tester** studying **BS Cyber Security** at **The Islamia University of Bahawalpur (IUB)**.
 
 I find the weaknesses in web applications, networks and infrastructure **before attackers do**, show their real business impact, and give clear, prioritised remediation guidance. Alongside testing, I build **open-source security tools** in Python for **reconnaissance**, **OSINT** and **reporting automation** — passive-first, safe by default and built for authorised use.
 
 ```diff
-+ Cybersecurity Student @ The Islamia University of Bahawalpur (IUB)
++ BS Cyber Security Student @ The Islamia University of Bahawalpur (IUB)
 + Penetration Tester — Web, Network & Infrastructure
 + Security Tool Developer — OSINT & Recon Automation
 - Unauthorised access? Never. Everything here is for authorised testing only.
@@ -43,7 +43,7 @@ I find the weaknesses in web applications, networks and infrastructure **before 
 
 | Institution | Program | Location |
 |-------------|---------|----------|
-| **The Islamia University of Bahawalpur (IUB)** | Cyber Security | Bahawalpur, Pakistan |
+| **The Islamia University of Bahawalpur (IUB)** | BS Cyber Security | Bahawalpur, Pakistan |
 
 **Focus areas:** Penetration Testing · Web Application Security · Network Security · OSINT · Vulnerability Assessment · Security Automation · Reporting
 
